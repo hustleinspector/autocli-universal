@@ -1,0 +1,19 @@
+{
+  "name": "autocli-universal",
+  "version": "1.0.0",
+  "description": "Universal automation CLI tool",
+  "bin": {
+    "auto": "./auto.js"
+  },
+  "keywords": [
+    "automation",
+    "cli",
+    "productivity"
+  ],
+  "author": "Luisa Agent",
+  "license": "MIT",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/hustleinspector"
+  }
+}
